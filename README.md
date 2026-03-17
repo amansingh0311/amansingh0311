@@ -1,81 +1,91 @@
-# 👋 Hi, I'm Aman Singh!
+<div align="center">
 
-Welcome to my GitHub! I'm a **Founding Product Engineer at Palisades Security (SF Bay Area)** and a builder at heart. I specialize in **AI-backed solutions, backend systems, DevOps pipelines**, and scalable full-stack applications. I’m passionate about **open source**, **tech blogging**, and working at the intersection of **AI and cloud infrastructure**.
+# Aman Singh
 
----
+**Software Engineer · Security Researcher · AI Builder**
 
-## 🚀 Tech I Work With
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amansingh311)
+[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amansingh3110)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amansingh31051@gmail.com)
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-
-### ⚙️ Frameworks & Tools
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-
-### ☁️ Cloud & DevOps
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-ChromaDB • Neo4j
-
-### 🧠 AI & ML
-LangChain • CrewAI • Agentic Systems • Memory Tools • Transformers • PyTorch • HuggingFace
+</div>
 
 ---
 
-## 🧩 Featured Projects
+Software Engineer at **Halo Funding**, building AI-powered systems for solar energy fintech — document processing pipelines, Salesforce integrations, and energy API workflows at scale. Previously a Founding Product Engineer at **Palisades Security**, where I built AI-driven code review and threat modeling platforms.
 
-- 🛡️ **Palisades Security Code Review & Threat Modelling**  
-  AI-driven platform using Anthropic, OpenAI, DeepSeek + memory & tool integrations  
-  _Tech: FastAPI, GCP, Open Source, Agentic Architectures_
-
-- 📄 **Legitt AI Contract Review Assistant**  
-  AI-powered smart assistant for legal contracts, Product Hunt launch, 95%+ accuracy  
-  _Tech: Python, PyTorch, Transformers, NGINX, Next.js_
-
-- 📍 **Favourite Location Pin** (Top 30 Global - DataStax Hackathon)  
-  _Flutter + Figma design, real-time map tagging system_
+I'm also a security researcher with presentations at **Black Hat USA** and **Black Hat Europe**, and the creator of **Flowlyt**, an open-source CI/CD security analysis tool. I write about AI engineering and developer tooling on [Medium](https://medium.com/@amansingh3110).
 
 ---
 
-## 🏆 Certifications
+## 🏗️ What I'm Building
 
-- Multi-Agent Systems with CrewAI – 2025  
-- Neo4j Fundamentals – 2025  
-- Kubernetes on AWS (EKS) – 2020  
-- Hybrid Multi-Cloud with Terraform – 2020  
-
----
-
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amansingh311)  
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@amansingh3110)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amansingh31051@gmail.com)
+**@ Halo Funding** — AI infrastructure for solar energy finance
+- Document processing pipelines for utility bills, sales proposals, and project photos using Claude Vision
+- Energy cost calculation engine integrating the Arcadia API with intelligent baselining and tariff matching
+- Secure installer portal with Google OAuth, httpOnly cookie auth, and opaque token-based session management
+- Optimized prompt caching patterns reducing extraction costs from ~$0.45 → ~$0.17 per document
+- Full-stack: Next.js frontend, Node.js backend, AWS App Runner, Salesforce integration
 
 ---
 
-## ✍️ Side Interests
+## 🔬 Security Research & Speaking
 
-📝 Writing blogs on AI and backend engineering  
-🌱 Exploring new open-source tools  
-🎤 Speaker & presenter at tech events (e.g., Slush D New Delhi)
+| Event | Talk |
+|---|---|
+| **Black Hat USA** | Security research presentation |
+| **Black Hat Europe** | Security research presentation |
+| **SAST & SCA Village Goa 2025** | *Beyond Grep: Building the Next Generation of Workflow Analysis* — 45-min deep dive on Flowlyt's AST+CFG approach |
+| **Slush D New Delhi** | Tech presentation |
 
 ---
 
-> “I believe in building useful, scalable, and intelligent systems that empower people and businesses.”
+## 🛡️ Featured Projects
 
+### [Flowlyt](https://github.com/) — Open-Source CI/CD Security Analysis
+Static analysis tool that uses **AST + Control Flow Graph** techniques instead of regex pattern matching, achieving **~4% false positive rate** versus 40–60% for traditional tools. Includes an AI verification layer (OpenAI / Claude / Gemini) for intelligent triage.
+
+### Palisades Security — AI Code Review & Threat Modeling
+AI-driven security platform using Anthropic, OpenAI, and DeepSeek with agentic architectures, memory, and tool integrations. Built on FastAPI + GCP.
+
+### [MCP Server — Qdrant + OpenAI](https://github.com/)
+Open-source Model Context Protocol server integrating Qdrant vector database with OpenAI embeddings for semantic search workflows.
+
+### Legitt AI — Contract Review Assistant
+AI-powered legal contract analysis with 95%+ accuracy. Launched on Product Hunt. Built with Python, PyTorch, Transformers, and Next.js.
+
+### Favourite Location Pin — *Top 30 Global, DataStax Hackathon*
+Real-time map tagging system built with Flutter and Figma.
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages** &nbsp; Python · JavaScript · TypeScript · SQL · PHP
+
+**Backend & AI** &nbsp; FastAPI · Node.js · LangChain · LangGraph · CrewAI · PyTorch · Transformers · HuggingFace
+
+**Frontend** &nbsp; Next.js · React · Tailwind CSS
+
+**Cloud & DevOps** &nbsp; AWS (App Runner, ECR, Secrets Manager) · GCP · Docker · Terraform · GitHub Actions
+
+**Data** &nbsp; PostgreSQL · MongoDB · MySQL · ChromaDB · Neo4j · Qdrant
+
+---
+
+## 📜 Certifications
+
+- Multi-Agent Systems with CrewAI — 2025
+- Neo4j Fundamentals — 2025
+- Kubernetes on AWS (EKS) — 2020
+- Hybrid Multi-Cloud with Terraform — 2020
+
+---
+
+<div align="center">
+
+*~18 months of production AI experience across Halo Funding, Palisades Security, Layup Labs (YC-backed), and Legitt AI.*
+
+**Building useful, scalable, and intelligent systems.**
+
+</div>
